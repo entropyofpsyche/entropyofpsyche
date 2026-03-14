@@ -10,7 +10,7 @@ Previously at **iCALL, TISS** (Mumbai) and the **Stress and Development Lab, Har
 
 **Tools:** R (tidyverse, lavaan, ggplot2) · Python (pandas, geopandas, plotly) · SPSS · Jamovi
 
-**Currently:** Applying to MSc programmes in Statistics/ Statistical Modelling and Applied Social Data Science. And preparing for PhD in quantitative mental health using longitudinal data sets
+**Currently:** Applying to MSc programmes in Statistics/ Statistical Modelling, Applied Social Data Science, Health Data Science. I am also simultaneously preparing for a fully-funded PhDs in quantitative mental health using longitudinal data sets in the UK/Europe/Australia 
 
 ---
 
